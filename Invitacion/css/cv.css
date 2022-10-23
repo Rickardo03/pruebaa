@@ -1,0 +1,42 @@
+#principal{
+  width: 80%;
+  margin: 0 auto;
+  padding: 5px;
+}
+h2{
+  font-family: 'Chakra Petch', sans-serif;
+  text-align: center;
+  color: #093653;
+  font-size: 40px;
+}
+#fs1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 110%;
+  margin-bottom: 10px;
+}
+#fs2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 190%;
+  margin-bottom: 10px;
+}
+#fs3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 110%;
+  margin-bottom: 10px;
+}
+
+legend{
+  font-family: 'Chakra Petch', sans-serif;
+  font-size: 27px;
+  color: #fff;
+  padding: 5px;
+  border: solid 1px #09530A;
+  border-radius: 20px;
+  background: #09530A;
+}
+#lista{
+   list-style-type: none;
+}
+*img{
+  align-items: center;
+}
